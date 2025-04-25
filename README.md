@@ -5,7 +5,6 @@ I'm a Data Scientist with a passion for turning data into actionable insights. I
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, SQL
-- **Databases**: PostgreSQL
 - **Business Intelligence**: Power BI, Amazon QuickSight
 - **Version Control**: GitHub, GitLab
 - **Data Engineering**: Airflow, Docker, AWS

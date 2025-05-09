@@ -14,6 +14,7 @@ I'm a Data Scientist with a passion for turning data into actionable insights. I
 
 - Data Science
 - Data Analysis
+- Storytelling through data and visualisations
 - Machine Learning
 - Data Engineering
 - Python Programming
